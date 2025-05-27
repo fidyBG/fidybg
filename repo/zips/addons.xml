@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="fidy.repository" name="fidy Repository" version="1.00" provider-name="fidyBG">
+    <extension point="xbmc.addon.repository" name="fidy Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/fidyBG/repo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/fidyBG/repo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/fidyBG/repo/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>fidy Repository</summary>
+        <description>Неофициално хранилище за модифицирани добавки.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>fidy.png</icon>
+        </assets>
+    </extension>
+<addon
+
+   id="plugin.cleaner.fmod" 
+
+   name="[COLOR cyan]Files Cleaner MOD[/COLOR]" 
+
+   version="fidy" 
+
+   provider-name="MartinStZ">
+
+    <requires />
+
+    <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>executable</provides>
+
+    </extension>
+
+    <extension point="xbmc.python.module" />
+
+    <extension point="xbmc.addon.metadata">
+
+        <summary lang="en">Clean Kodi's Temporary Files</summary>
+
+        <summary lang="bg">Изтрива временни файлове от КОДИ</summary>
+
+        <description lang="en">Clean Kodi's Temporary Files.</description>
+
+        <description lang="bg">Програма за освобождаване на място на устройството, като изтрива ненужните файлове (временни файлове, картинки, постери, субтитри за филми и др.) от системата на КОДИ.</description>
+
+        <disclaimer lang="en">Modification. Use at own risk!</disclaimer>
+
+        <disclaimer lang="bg">Модифицирана версия. Ползвате на собствена отговорност!</disclaimer>
+
+        <platform>all</platform>
+
+        <assets>
+
+            <icon>cleaner.png</icon>
+
+        </assets>
+
+    </extension>
+</addon></addons>
