@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon 
+   id="skin.aquafluence"
+   version="5.1.2"
+   name="[COLOR cyan]Aquafluence[/COLOR]"
+   provider-name="fidyBG">
+    <requires>
+		<import addon="xbmc.gui" version="5.17.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<assets>
+			<icon>media/aqua.png</icon>
+		</assets>
+		<news lang="bg">[B]Експериментална версия ;)[/B]</news>
+		<news lang="en">[B]Experimental version ;)[/B]</news>
+		<summary lang="bg">Облик от fidyBG</summary>
+        <summary lang="en">Skin by fidyBG</summary>
+		<description lang="bg">Aquafluence е редактирана версия на известния облик Confluence от Jezz_X.</description>
+		<description lang="en">Aquafluence is edited version of good known skin Confluence by Jezz_X.</description>
+		<disclaimer lang="en">Modification. Use at own risk!</disclaimer>
+		<disclaimer lang="bg">Модифицирана версия. Ползвате на собствена отговорност!</disclaimer>
+	</extension>
+</addon>
