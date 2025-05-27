@@ -1,0 +1,38 @@
+# Kodi Media Center language file
+# Add-on Name: Files Cleaner MOD
+# Add-on id: plugin.cleaner.fmod
+# Add-on provider: MartinStZ
+msgid ""
+msgstr ""
+"Project-Id-Version: Files Cleaner MOD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-11 10:45+0200\n"
+"PO-Revision-Date: 2024-06-10 19:05+0200\n"
+"Last-Translator: fidyBG\n"
+"Language-Team: fidyBG\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30300"
+msgid "SETTINGS"
+msgstr "НАСТРОЙКИ"
+
+msgctxt "#30301"
+msgid "Temp folder"
+msgstr "Папка за временни файлове"
+
+msgctxt "#30302"
+msgid "Packages folder"
+msgstr "Папка за файлове на добавки"
+
+msgctxt "#30303"
+msgid "Thumbnails folder"
+msgstr "Папка за миниатюри"
+
+msgctxt "#30304"
+msgid "Custom subtitle folder"
+msgstr "Избрана папка за субтитри"
