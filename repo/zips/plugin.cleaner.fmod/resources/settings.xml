@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30300">
+      <setting label="30301" type="bool"    id="checktemp" default="true"/>
+      <setting label="30302" type="bool"    id="checkpack" default="true"/>
+      <setting label="30303" type="bool"    id="checkthumb" default="true"/>
+      <setting label="30304" type="bool"    id="checksub" default="true"/>
+    </category>
+</settings>
