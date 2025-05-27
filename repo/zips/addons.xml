@@ -3,9 +3,9 @@
 <addon id="fidy.repository" name="fidy Repository" version="1.00" provider-name="fidyBG">
     <extension point="xbmc.addon.repository" name="fidy Repository">
         <dir>
-            <info compressed="false">https://github.com/fidyBG/fidybg/tree/master/repo/zips/addons.xml</info>
-            <checksum>https://github.com/fidyBG/fidybg/tree/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/fidyBG/fidybg/tree/master/repo/zips/</datadir>
+            <info compressed="false">https://github.com/fidyBG/fidybg/raw/master/repo/zips/addons.xml</info>
+            <checksum>https://github.com/fidyBG/fidybg/raw/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/fidyBG/fidybg/raw/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
